@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello my name is Benjamin Leister and I am looking to work as a Translator and Interpreter, to be able to do this I have finished my A-Levels in Germany at the August-Bebel-Schule in Offenbach a.M. and continued on to the Euro Akademie Aschaffenburg, where I trained to be a foreign language correspondent in the languages German, English and Spanish.
+Hello my name is Benjamin Leister I am 20 years old and looking to work as a Translator and Interpreter, to be able to do this I have finished my A-Levels in Germany at the August-Bebel-Schule in Offenbach a.M. and continued on to the Euro Akademie Aschaffenburg, where I trained to be a foreign language correspondent in the languages German, English and Spanish.
 
 # Personal Information
 
