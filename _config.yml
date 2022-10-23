@@ -18,22 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "<TODO:TITLE>"
+title: "TODO:TITLE"
 email: benji.leister@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
-  <TODO:DESCRIPTION>
+  TODO:DESCRIPTION
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ventustranslations.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_image: assets/profile.png
 
-google_analytics:
-comments: true
+#comments: true
 disqus: purelog-jekyll
 
 author: Benjamin Leister
 author_bio: >-
-  <TODO:BIO>
+  TODO:BIO
 author_pic: https://brennanbrown.ca/img/avatar.png
 paginate: 4
 paginate_path: "/:num/"
@@ -60,18 +59,6 @@ defaults:
       layout: "post"
       author: Benjamin Leister
       avatar: assets/profile-sm.png
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: post
-      content-type: notes
-  - scope:
-      path: ""
-      type: journals
-    values:
-      layout: journal-entry
-      content-type: journals
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
