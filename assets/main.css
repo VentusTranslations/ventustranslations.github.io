@@ -520,3 +520,24 @@ footer ul {
 .search-icon {
   font-size: 24px;
 }
+
+html body div#layout.pure-g aside.sidebar.pure-u-1.pure-u-md-1-4 div.sidebar-info a img.brand-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: 7%;
+  width: 75%;
+}
+
+html body div#layout.pure-g aside.sidebar.pure-u-1.pure-u-md-1-4 div.sidebar-info h1.brand-title {
+  width: 50%;
+  margin: auto;
+}
+
+html body div#layout.pure-g aside.sidebar.pure-u-1.pure-u-md-1-4 div.sidebar-info h2.brand-tagline {
+  text-align: justify;
+  word-wrap: break-word;
+}
+
+html body div#layout.pure-g aside.sidebar.pure-u-1.pure-u-md-1-4 div.sidebar-info nav.nav {
+  text-align: center !important;
+}
